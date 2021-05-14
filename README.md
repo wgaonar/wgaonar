@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wgaonar
-- 👀 I’m interested in teaching about electronics, programming, embedded systems and 3D modelling and 3Dprinting.
+- 👀 I’m interested in teaching about electronics, programming, embedded systems and 3D modelling and 3D printing.
 - 🌱 I’m currently learning how to develop android apps with kotlin
 - 💞️ I’m looking to collaborate with Marymount High School in Cuernavaca, México as the FabLab Coordinator. 
 - 📫 How to reach me: twitter: @wgaonar / email: wgaona@gmail.com
